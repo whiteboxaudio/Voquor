@@ -1,4 +1,4 @@
-🗣️ # Voquor
+# 🗣️ Voquor
 
 Voquor is a high-performance, Python 3.10+ compatible synthetic voice engine for producing human-like speech from text. Built for developers and creatives, Voquor supports real-time audio generation, voice blending, emotion modulation, and batch processing — all with a clean Python API.
 🚀 Features
